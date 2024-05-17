@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=l0gs3c&label=Visitors&icon=0&pretty=true)](https://visitcount.itsvg.in)
 --------
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+My+name+is+Huynh+Van+Tho!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+My+nickname+is+l0gs3c!)
 --------
 <p align="center">
 	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=l0gs3c&show_icons=true&theme=tokyonight&rank_icon=github&border_color=2e4058&include_all_commits=true" height="180px" alt="l0gs3c :: Profile Stats" /></a>
